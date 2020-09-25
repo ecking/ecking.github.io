@@ -13,14 +13,13 @@ Here is a 40-second video ....
 
 <img src="../img/install-steps.gif" style="width:100%;" alt="Installation steps" />
 
-<div class="gs-section-01">
+<div class="gs-section-01"> {{
 
-### 1. Fork the Beautiful Jekyll repository 
+### 1. Fork (copy) the Beautiful Jekyll project 
 
-Fork the [repository](https://github.com/daattali/beautiful-jekyll) 
-by clicking the Fork button on the top right corner in GitHub.
+Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.
 
-</div>
+}} </div>
 
 
 ### 2. Rename the project to `<yourusername>.github.io`
