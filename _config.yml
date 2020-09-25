@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 
-url: "https://melyanna.github.io"
+url: "https://ecking.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -18,7 +18,7 @@ baseurl: ""
 title: Peloton
 
 # Short description of your site
-description: Blog, scrapbook, and virtual space for my experiments.
+description: Sharing Peloton Love
 
 # --- Navigation bar options --- #
 
@@ -26,7 +26,7 @@ description: Blog, scrapbook, and virtual space for my experiments.
 navbar-links:
   Blog: ""
   About: "about"
-  Tags: "https://melyanna.github.io/tags/"
+  Tags: "https://ecking.github.io/tags/"
   # Website: "https://melyanna.net/"
   Subscribe: "subscribe"
   Search: "search"
