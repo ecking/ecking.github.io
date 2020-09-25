@@ -13,20 +13,20 @@ Here is a 40-second video ....
 
 <img src="../img/install-steps.gif" style="width:100%;" alt="Installation steps" />
 
-<div class="gs-section-01"> {{
+<div class="gs-section-01">
 
-### 1. Fork (copy) the Beautiful Jekyll project 
+### 1. Fork the Beautiful Jekyll repository 
 
-Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.
+Fork the [repository](https://github.com/daattali/beautiful-jekyll) 
+by clicking the Fork button on the top right corner in GitHub.
 
-}} </div>
+</div>
 
 
 ### 2. Rename the project to `<yourusername>.github.io`
 
 Click on __*Settings*__ at the top (the cog icon) and on that page you'll have an option to rename the project (*Repository name*). This will create a website with the **Beautiful Jekyll** template that will be available at `https://<yourusername>.github.io` within a couple minutes (check out the [FAQ](https://beautifuljekyll.com/faq/#custom-domain) if you want to use a different project name). If after a few minutes your website is still not ready, try making any edit to any file, just to force GitHub to re-build your site.
 
-</div>
 
 
 ### 3. Customize your website settings
@@ -35,7 +35,6 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, c
 
 Note that in the video above I only edited one setting in the `_config.yml` file. **You should actually go through the rest of the settings as well. Don't be lazy, go through all the settings!**
 
-</div>
 
 ### 4. Congratulations! You have a website!
 
@@ -43,7 +42,6 @@ After you save your changes to the `_config.yml` file (by clicking on *Commit ch
 
 Note that this was the easy way to *create* your website, but it does come at a cost: when Beautiful Jekyll gains new features in the future, *updating* your website to include all the latest features is cumbersome. See the [FAQ](https://beautifuljekyll.com/faq/#updating) for help with upgrading in the future.
 
-</div>
 
 ## The hard way (using ruby gems)
 
