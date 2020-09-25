@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 
-url: "https://ecking.github.io"
+url: "https://melyanna.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -15,10 +15,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Peloton Journey
+title: Peloton
 
 # Short description of your site
-description: Watch my journey with Peloton
+description: Blog, scrapbook, and virtual space for my experiments.
 
 # --- Navigation bar options --- #
 
@@ -26,8 +26,8 @@ description: Watch my journey with Peloton
 navbar-links:
   Blog: ""
   About: "about"
-  Tags: "https://ecking.github.io/tags/"
-  # Website: "https://ecking.net/"
+  Tags: "https://melyanna.github.io/tags/"
+  # Website: "https://melyanna.net/"
   Subscribe: "subscribe"
   Search: "search"
 
@@ -65,25 +65,25 @@ page-img: "/img/bg/noise.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Elyse
+  name: Melyanna
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
-  email: "ecking@asu.edu"
-  facebook: ecking
-  github: ecking
-  twitter: ElyseCara1
+  rss: true
+  email: "melyanna@tutanota.com"
+#  facebook: daattali
+  github: melyanna
+  twitter: OoMelyannaoO
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: ElyseKing
+#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: elysecara1
+#  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -95,13 +95,12 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  github: true
-  instagram: true
-  linkedin: true
+  google: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ecking.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "melyanna.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -125,6 +124,9 @@ url-pretty: "ecking.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Comments --- #
 
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+
+disqus: "melyannagithubio"
 
 
 # To use Facebook Comments, fill in a Facebook App ID
