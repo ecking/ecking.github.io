@@ -77,7 +77,7 @@ The background images of this blog come from this site.
 <style>
 
 .gs-section-01 h3 {
-color: red }
+color: blue }
 
 .gs-section-01 p {
 font-size: 30px;
@@ -87,14 +87,14 @@ font-size: 30px;
 color: green }
 
 .gs-section-02 p {
-font-size: 40px;
+font-size: 15px;
 }
 
 .gs-section-03 h3 {
-color: blue }
+color: purple }
 
 .gs-section-03 p {
-font-size: 50px;
+font-size: 10px;
 }
 
 </style>
